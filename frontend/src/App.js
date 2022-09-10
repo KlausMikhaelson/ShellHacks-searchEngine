@@ -1,7 +1,7 @@
 import './App.css';
-import SerchInput from './component/SerchInput';
+import SearchInput from './component/SearchInput';
 import Navbar from './component/Navbar';
-import {Routes, Route, Link} from "react-router-dom"
+import {Routes, Route, Link} from "react-router-dom";
 import Result from './pages/Result';
 import HomePage from './pages/HomePage';
 

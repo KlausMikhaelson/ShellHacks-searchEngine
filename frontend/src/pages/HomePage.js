@@ -1,11 +1,11 @@
 import React from 'react'
 import Navbar from '../component/Navbar'
-import SerchInput from '../component/SerchInput'
+import SearchInput from '../component/SearchInput'
 
 const HomePage = () => {
   return (
     <>
-    <SerchInput />
+    <SearchInput />
     </>
   )
 }
